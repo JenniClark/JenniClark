@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JenniClark
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning HTML and CSS
