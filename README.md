@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JenniClark
-- 👀 I’m interested in Frontend
+- 👀 I’m interested in Backend
 - 🌱 I’m currently learning HTML and CSS
